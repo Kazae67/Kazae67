@@ -14,7 +14,9 @@
 <a href="https://www.linkedin.com/in/kazae-zaeka-923b1a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazae zaeka" height="30" width="40" /></a>
 <a href="https://instagram.com/kazaelol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazaelol" height="30" width="40" /></a>
 <a href="https://discord.gg/Kazae." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kazae." height="30" width="40" /></a>
-<a href="mailto:Kazae.zaeka@gmail.com" target="_blank">&#x2709;</a>
+</p>
+<p>
+- M'envoyer un message : <a href="mailto:Kazae.zaeka@gmail.com" target="_blank">&#x2709;</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazae67&label=Profile%20views&color=0e75b6&style=flat" alt="kazae67" /> </p>
