@@ -4,7 +4,7 @@
     <img src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47wwjcpkxrft419mm08pjhx8ww69yuvaiwbkx3lnb9&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="MasterHead">
   </a>
 </p>
-<h3 align="center">Dans l'attende d'optention du titre de Développeur Web et Web mobile (DWWM)</h3>
+<h3 align="center">Dans l'attende de l'optention du titre de Développeur Web et Web mobile (DWWM)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazae67&label=Profile%20views&color=0e75b6&style=flat" alt="kazae67" /> </p>
