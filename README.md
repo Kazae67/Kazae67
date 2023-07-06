@@ -16,7 +16,7 @@
 <a href="https://discord.gg/Kazae." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kazae." height="30" width="40" /></a>
 </p>
 <p>
-- M'envoyer un message : <a href="mailto:Kazae.zaeka@gmail.com" target="_blank">&#x2709;</a>
+- M'envoyer un message : <a href="Kazae.zaeka@mail.com" target="_blank">envoyer un message<a> <a href="mailto:Kazae.zaeka@gmail.com" target="_blank">&#x2709;</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazae67&label=Profile%20views&color=0e75b6&style=flat" alt="kazae67" /> </p>
