@@ -28,6 +28,6 @@
 <hr>
 
 <h3 align="left">Statistiques</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazae67&locale=fr&theme=dark" alt="kazae67" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazae67&show_icons=true&locale=fr&theme=dark" alt="kazae67" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazae67&show_icons=true&locale=fr&layout=compact&theme=dark" alt="kazae67" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazae67&locale=fr&theme=monokai" alt="kazae67" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazae67&show_icons=true&locale=fr&theme=monokai" alt="kazae67" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazae67&show_icons=true&locale=fr&layout=compact&theme=monokai" alt="kazae67" /></p>
