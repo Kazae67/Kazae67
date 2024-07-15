@@ -4,7 +4,6 @@
     <img src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47wwjcpkxrft419mm08pjhx8ww69yuvaiwbkx3lnb9&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="MasterHead">
   </a>
 </p>
-<h3 align="center">Dans l'attende de l'optention du titre de Développeur Web et Web mobile (DWWM)</h3>
 <hr>
 
 
